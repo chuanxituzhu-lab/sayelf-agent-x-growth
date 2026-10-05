@@ -1,0 +1,45 @@
+test_all_composer_kinds_preserve_statement (test_growth.GrowthCase.test_all_composer_kinds_preserve_statement) ... ok
+test_analytics_and_learning (test_growth.GrowthCase.test_analytics_and_learning) ... ok
+test_audit_no_raw_content (test_growth.GrowthCase.test_audit_no_raw_content) ... ok
+test_automatic_recommendation_not_approval (test_growth.GrowthCase.test_automatic_recommendation_not_approval) ... ok
+test_bad_postcheck_unknown_no_retry (test_growth.GrowthCase.test_bad_postcheck_unknown_no_retry) ... ok
+test_cap_across_reruns (test_growth.GrowthCase.test_cap_across_reruns) ... ok
+test_changed_file_blocks_publication (test_growth.GrowthCase.test_changed_file_blocks_publication) ... ok
+test_current_review_digest (test_growth.GrowthCase.test_current_review_digest) ... ok
+test_early_observation_rejected (test_growth.GrowthCase.test_early_observation_rejected) ... ok
+test_edit_invalidates_approval (test_growth.GrowthCase.test_edit_invalidates_approval) ... ok
+test_edit_review_can_be_recommended_again (test_growth.GrowthCase.test_edit_review_can_be_recommended_again) ... ok
+test_empty_day (test_growth.GrowthCase.test_empty_day) ... ok
+test_event_bus_delivery (test_growth.GrowthCase.test_event_bus_delivery) ... ok
+test_forbidden_connector (test_growth.GrowthCase.test_forbidden_connector) ... ok
+test_foreign_runtime_database_untouched (test_growth.GrowthCase.test_foreign_runtime_database_untouched) ... ok
+test_high_score_cannot_override_nonpublic (test_growth.GrowthCase.test_high_score_cannot_override_nonpublic) ... ok
+test_hold_and_resume (test_growth.GrowthCase.test_hold_and_resume) ... ok
+test_learning_requires_all_windows (test_growth.GrowthCase.test_learning_requires_all_windows) ... ok
+test_likes_not_accepted (test_growth.GrowthCase.test_likes_not_accepted) ... ok
+test_live_connector_cannot_claim_offline_mode (test_growth.GrowthCase.test_live_connector_cannot_claim_offline_mode) ... ok
+test_live_disabled_no_network (test_growth.GrowthCase.test_live_disabled_no_network) ... ok
+test_low_quality_holds (test_growth.GrowthCase.test_low_quality_holds) ... ok
+test_manifest_reuses_registry (test_growth.GrowthCase.test_manifest_reuses_registry) ... ok
+test_missing_fact_evidence (test_growth.GrowthCase.test_missing_fact_evidence) ... ok
+test_mode_bound (test_growth.GrowthCase.test_mode_bound) ... ok
+test_no_double_publication (test_growth.GrowthCase.test_no_double_publication) ... ok
+test_no_fact_promotion_of_inference (test_growth.GrowthCase.test_no_fact_promotion_of_inference) ... ok
+test_no_implicit_human_review (test_growth.GrowthCase.test_no_implicit_human_review) ... ok
+test_official_connector_verifies_credential_account (test_growth.GrowthCase.test_official_connector_verifies_credential_account) ... ok
+test_official_metric_mapping_no_likes_or_fake_conversion (test_growth.GrowthCase.test_official_metric_mapping_no_likes_or_fake_conversion) ... ok
+test_reject_not_recommended (test_growth.GrowthCase.test_reject_not_recommended) ... ok
+test_rereview_invalidates_approval (test_growth.GrowthCase.test_rereview_invalidates_approval) ... ok
+test_role_deactivation_blocks (test_growth.GrowthCase.test_role_deactivation_blocks) ... ok
+test_schedule_early_block_and_cancel (test_growth.GrowthCase.test_schedule_early_block_and_cancel) ... ok
+test_secret_input_rejected (test_growth.GrowthCase.test_secret_input_rejected) ... ok
+test_trend_requires_approval (test_growth.GrowthCase.test_trend_requires_approval) ... ok
+test_unknown_classification_blocks (test_growth.GrowthCase.test_unknown_classification_blocks) ... ok
+test_work2content_bus_has_no_content_in_journal (test_growth.GrowthCase.test_work2content_bus_has_no_content_in_journal) ... ok
+test_work2content_dedup_and_conflict (test_growth.GrowthCase.test_work2content_dedup_and_conflict) ... ok
+test_loopback_csrf_and_read (test_growth.WebCase.test_loopback_csrf_and_read) ... ok
+
+----------------------------------------------------------------------
+Ran 40 tests in 4.524s
+
+OK

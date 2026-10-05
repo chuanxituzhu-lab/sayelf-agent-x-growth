@@ -1,0 +1,42 @@
+test_inactive_role_blocks_then_activation_produces_local_workplan (test_desktop_workbench.DesktopWorkbenchTests.test_inactive_role_blocks_then_activation_produces_local_workplan) ... ok
+test_registered_roles_are_idle_until_explicitly_activated (test_desktop_workbench.DesktopWorkbenchTests.test_registered_roles_are_idle_until_explicitly_activated) ... ok
+test_schema_one_migration_backups_and_preserves_existing_rows (test_desktop_workbench.DesktopWorkbenchTests.test_schema_one_migration_backups_and_preserves_existing_rows) ... ok
+test_draft_mirror_failure_keeps_persisted_result_in_review_state (test_media_workflow.MediaWorkflowTests.test_draft_mirror_failure_keeps_persisted_result_in_review_state) ... ok
+test_failure_resume_reuses_accepted_upstream_stage (test_media_workflow.MediaWorkflowTests.test_failure_resume_reuses_accepted_upstream_stage) ... ok
+test_full_flow_generates_reviewable_package_and_local_zip (test_media_workflow.MediaWorkflowTests.test_full_flow_generates_reviewable_package_and_local_zip) ... ok
+test_missing_role_blocks_without_calling_provider (test_media_workflow.MediaWorkflowTests.test_missing_role_blocks_without_calling_provider) ... ok
+test_performance_review_is_bound_to_latest_approved_version (test_media_workflow.MediaWorkflowTests.test_performance_review_is_bound_to_latest_approved_version) ... ok
+test_performance_review_requires_approved_package_and_valid_counts (test_media_workflow.MediaWorkflowTests.test_performance_review_requires_approved_package_and_valid_counts) ... ok
+test_provider_adapter_rejects_invalid_json_without_leaking_input (test_media_workflow.MediaWorkflowTests.test_provider_adapter_rejects_invalid_json_without_leaking_input) ... ok
+test_provider_adapter_sends_only_json_payload_and_keeps_key_in_header (test_media_workflow.MediaWorkflowTests.test_provider_adapter_sends_only_json_payload_and_keeps_key_in_header) ... ok
+test_remote_provider_requires_per_run_consent_before_any_call (test_media_workflow.MediaWorkflowTests.test_remote_provider_requires_per_run_consent_before_any_call) ... ok
+test_remote_run_records_per_run_scope_without_persisting_material (test_media_workflow.MediaWorkflowTests.test_remote_run_records_per_run_scope_without_persisting_material) ... ok
+test_unrecognized_provider_error_code_is_redacted (test_media_workflow.MediaWorkflowTests.test_unrecognized_provider_error_code_is_redacted) ... ok
+test_r01_wechat_titles (test_routing.RoutingEvalTests.test_r01_wechat_titles) ... ok
+test_r02_wechat_article (test_routing.RoutingEvalTests.test_r02_wechat_article) ... ok
+test_r03_existing_article_images (test_routing.RoutingEvalTests.test_r03_existing_article_images) ... ok
+test_r04_wechat_draft (test_routing.RoutingEvalTests.test_r04_wechat_draft) ... ok
+test_r05_wechat_performance (test_routing.RoutingEvalTests.test_r05_wechat_performance) ... ok
+test_r06_boq_compare (test_routing.RoutingEvalTests.test_r06_boq_compare) ... ok
+test_r07_drawing_diff (test_routing.RoutingEvalTests.test_r07_drawing_diff) ... ok
+test_r08_quantity_review (test_routing.RoutingEvalTests.test_r08_quantity_review) ... ok
+test_r09_test_report (test_routing.RoutingEvalTests.test_r09_test_report) ... ok
+test_r10_hazard (test_routing.RoutingEvalTests.test_r10_hazard) ... ok
+test_short_video_channels_route_scripts (test_routing.RoutingEvalTests.test_short_video_channels_route_scripts) ... ok
+test_social_channels_route_titles (test_routing.RoutingEvalTests.test_social_channels_route_titles) ... ok
+test_wechat_generic_content_keeps_article_route (test_routing.RoutingEvalTests.test_wechat_generic_content_keeps_article_route) ... ok
+test_x01_engineering_topic_wechat_article (test_routing.RoutingEvalTests.test_x01_engineering_topic_wechat_article) ... ok
+test_x02_boq_manager_brief_stays_engineering (test_routing.RoutingEvalTests.test_x02_boq_manager_brief_stays_engineering) ... ok
+test_x03_site_photo_to_xiaohongshu_is_media (test_routing.RoutingEvalTests.test_x03_site_photo_to_xiaohongshu_is_media) ... ok
+test_x04_media_operating_cost_is_media (test_routing.RoutingEvalTests.test_x04_media_operating_cost_is_media) ... ok
+test_x05_cross_industry_is_split_not_super_agent (test_routing.RoutingEvalTests.test_x05_cross_industry_is_split_not_super_agent) ... ok
+test_custom_industry_pack_routes_without_core_changes (test_state_and_registry.RegistryAndStateTests.test_custom_industry_pack_routes_without_core_changes) ... ok
+test_first_vertical_slice_can_reach_ready (test_state_and_registry.RegistryAndStateTests.test_first_vertical_slice_can_reach_ready) ... ok
+test_illegal_state_jump_is_rejected (test_state_and_registry.RegistryAndStateTests.test_illegal_state_jump_is_rejected) ... ok
+test_registry_is_idle_by_default (test_state_and_registry.RegistryAndStateTests.test_registry_is_idle_by_default) ... ok
+test_roles_activate_explicitly_and_can_be_deactivated (test_state_and_registry.RegistryAndStateTests.test_roles_activate_explicitly_and_can_be_deactivated) ... ok
+
+----------------------------------------------------------------------
+Ran 37 tests in 3.143s
+
+OK
